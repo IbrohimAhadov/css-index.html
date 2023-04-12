@@ -1,0 +1,53 @@
+ul {
+    list-style: none;
+    text-decoration: none;
+
+
+}
+.home :hover{
+    color: red;
+    background-color: blue;
+    margin: 10px;
+    padding: 20px;
+    cursor: grab;
+    text-decoration: none;
+
+
+}
+.about :hover{
+    color: red;
+    background-color: blue;
+    margin: 10px;
+    padding: 20px;
+    cursor: grab;
+
+}
+.epick :hover{
+    color: red;
+    background-color: blue;
+    margin: 10px;
+    padding: 20px;
+    cursor: grab;
+
+}
+.gotolab :hover{
+    color: red;
+    background-color: blue;
+    margin: 10px;
+    padding: 20px;
+    cursor: grab;
+
+}
+.contacts:hover{
+    color: red;
+    background-color: blue;
+    margin: 10px;
+    padding: 20px;
+    cursor: grab;
+
+}
+li{
+
+    padding: 1px;
+    margin: 1px;
+}
