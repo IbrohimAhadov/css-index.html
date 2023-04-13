@@ -1,0 +1,28 @@
+button{
+    width: 100px;
+    height: 100px;
+    text-align: left;
+    color: black;
+    background-color: black;
+}
+.pibk{
+    background-color: rgb(9, 158, 226);
+    color: rgb(9, 158, 226);
+    position: relative;
+    top: 110px;
+    right: 213px;
+    margin: 2px;
+    
+}
+.blue{
+    color: rgb(136, 177, 244);
+    background-color:rgb(14, 127, 192);
+    padding: 0px;
+    margin: 0px;
+    margin: 5px;
+}
+.red {
+    color: rgb(60, 170, 237);
+    background-color: rgb(16, 106, 232);
+    cursor: progress;
+}
