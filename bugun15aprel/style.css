@@ -1,0 +1,28 @@
+.boom :hover{
+color: black;
+    border: solid 0.5px ;
+    background-color: rgb(0, 200, 210);
+margin: 10px;
+padding: 10px;
+
+  
+
+}
+li a{
+    text-decoration: none;
+
+cursor: grabbing;
+
+}
+li{
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px;
+    font-size:50px ;
+    display: inline;
+}
+*{
+    margin: 10px 10px;
+    padding: 10px  12px;
+    background-color: bisque;
+}
