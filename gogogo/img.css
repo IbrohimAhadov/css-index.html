@@ -1,0 +1,88 @@
+.container {
+    width: 500px;
+    height: 500px;
+    position: absolute;
+  }
+  .ball {
+    width:280px;
+    height: 280px;
+    border-radius: 60%;
+    background-color: rgb(15, 155, 237);
+    position: absolute;
+    top: 0;
+    animation: bounce 2s infinite;
+    text-align: center;
+    vertical-align:top;
+    left: 1000px;
+  }
+  @keyframes bounce {
+    0% {
+      top: 10;
+    }
+    50% {
+      top: 350px;
+    }
+    80% {
+      top: 100;
+    } 
+
+ 
+
+  }
+
+@keyframes qalay {
+from{
+    background-color: green;
+
+}
+to{
+    background-color: black;
+}
+0%{
+    background-color: yellow ; left:0px; top: 0px ;
+}
+25%{
+    background-color: aqua; left: 200px; top: 100px;
+
+}
+50%{
+    background-color: blue;
+top: 200px;
+    left:200px;
+}
+75%{
+    background-color: blueviolet;
+    left: 100px;
+    top: 200px;
+}
+100%{
+background-color: green;
+left: 100px;
+top: 110px;
+}
+
+}
+.content{
+    width: 100px;
+    height: 10px;
+    position: absolute;
+}
+.button{
+    width: 300px;
+    height: 400px;
+    color: green;
+    background-color: black;
+    animation-name: qalay ;
+    animation-duration: 10s;
+    text-align: center;
+    left: 100px;
+    position: relative;
+}
+  span{
+    display: flex;
+text-transform: capitalize;
+text-indent: 90px;
+
+font-size: 50px;
+}
+  
