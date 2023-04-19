@@ -1,8 +1,42 @@
-button{
+.bot{
     width: 1000px;
     height: 200px;
     background-color: rgb(0, 174, 255);
     position: absolute;
     text-align: center;
     left: 10px;
+}
+.futer{
+background-color: rgb(189, 177, 6);
+position: relative;
+top: 200px;
+width: 500px;
+height: 200px;
+}
+.expert{
+    position: relative;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    color: white;
+    left: 500px;
+    width: 500px;
+    height: 200px;
+ 
+}
+.yellow{
+    width: 1000px;
+    height: 150px;
+    background-color: rgb(145, 207, 195);
+    position: absolute;
+    text-align: center;
+    left: 10px;
+}
+
+#gogog{
+    position: relative;
+    top: 150px;
+    width: 1000px;
+    height: 150px;
+    background-color: red;
 }
