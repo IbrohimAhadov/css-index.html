@@ -1,0 +1,30 @@
+.container{
+    font-family: sans-serif;
+    color: blue;
+
+}
+button{
+    color: blueviolet;
+    background-color: rgb(127, 148, 255);
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+}
+h3{
+    font-size: 30px;
+    font-family: monospace;
+    left: 100px;
+right: 100px;
+font-variant: small-caps;
+text-align: left;
+margin: 10px;
+
+}
+
+h4{
+    word-spacing: 10px;
+    text-align: left;
+}
+span{
+    text-align: left;
+}
